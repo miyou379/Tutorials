@@ -1,2 +1,2 @@
-# tutorials
-Small tutorials written by miyou379.
+# Tutorials
+Some little tutorials written by miyou379.
